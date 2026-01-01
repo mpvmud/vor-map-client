@@ -32,7 +32,8 @@ VoRMap is a lightweight proxy application that sits between your MUD client and 
 
 ## Screenshots
 
-*(Add screenshots here)*
+
+<img width="605" height="695" alt="Screenshot 2026-01-01 062930" src="https://github.com/user-attachments/assets/ddae9f11-b134-45ae-a8cb-6b3fe4ee3743" />
 
 ---
 
